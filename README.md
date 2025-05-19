@@ -12,7 +12,6 @@ This project involves the development of an underwater Remotely Operated Vehicle
 * **ESC (Electronic Speed Controller) x 2:** Controls the two brushless motors for vertical and horizontal thrust.
 * **AA Battery Pack:** Power source for the joystick module.
 * **Joystick Module x 2:** Used to control motor speed and direction (one for propulsion, one for thrust).
-* **Capacitors and Resistors:** For signal conditioning and power regulation.
 
 ### Circuit Connections:
 
