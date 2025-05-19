@@ -52,6 +52,8 @@ This project involves the development of an underwater Remotely Operated Vehicle
 
 ![IMG-20241217-WA0023](https://github.com/user-attachments/assets/43039118-1e6b-4d16-95b7-95cb025611f5)
 
+![Remote](https://github.com/user-attachments/assets/d9ac87d5-aa34-462a-82e2-f8d6d9bc1cc0)
+
 
 
 ### Development Stage and Future Plans:
